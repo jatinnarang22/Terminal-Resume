@@ -1,0 +1,91 @@
+{
+  "name": "Jatin Narang",
+  "bio": "SDE-1 at Social Beat | Full-Stack Developer | Passionate about building efficient systems and optimizing user experiences",
+  "contact": {
+    "email": "njatin3435@gmail.com",
+    "phone": "+91 9416544345",
+    "github": "https://github.com/jatinnarang22",
+    "portfolio": "https://jatinnarang22.netlify.app/"
+  },
+  "workExperience": [
+    {
+      "role": "SDE-1",
+      "company": "Social Beat",
+      "duration": "Feb 2025 – Present",
+      "details": [
+        "Developed and deployed an automated cron job to streamline data ingestion from Excel sheets, significantly boosting the efficiency of campaign performance tracking.",
+        "Integrated interactive and real-time charts using ApexCharts.js to enhance campaign data visualization and empower data-driven decision-making for stakeholders.",
+        "Designed and implemented a dynamic 'Add Tracker' interface that allows users to effortlessly add, edit, and manage campaign entries, improving workflow efficiency."
+      ]
+    },
+    {
+      "role": "SDE-Intern",
+      "company": "OpenText",
+      "duration": "Apr 2024 – Oct 2024",
+      "details": [
+        "Created a multithreaded Python script to process data from 800 consoles, reducing processing time significantly.",
+        "Streamlined data extraction using Python, Selenium, and Excel, enhancing operational workflows.",
+        "Improved Vue.js component reactivity, boosting user experience in the application."
+      ]
+    },
+    {
+      "role": "SDE Intern",
+      "company": "Tactic Money",
+      "duration": "Sep 2023 – Nov 2023",
+      "details": [
+        "Developed a fully responsive website using React.js for seamless experiences across devices.",
+        "Integrated Google Analytics for tracking user behavior and making data-driven decisions.",
+        "Built a mobile frontend with React Native for a consistent experience on both platforms."
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "PetScoob",
+      "duration": "May 2023 – Aug 2023",
+      "details": [
+        "Developed secure authentication using Node.js and JWT tokens.",
+        "Built a user-friendly dashboard displaying personal information and historical records."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Instagram Clone (MERN Stack)",
+      "duration": "Feb 2023 – Aug 2023",
+      "details": [
+        "Developed a social media platform using MongoDB, Express.js, React.js, and Node.js.",
+        "Implemented secure authentication with JWT for user login and session management.",
+        "Designed a clean UI for uploading, browsing, and sharing posts.",
+        "Created a personalized dashboard displaying user posts and interactions."
+      ]
+    },
+    {
+      "name": "MovieU",
+      "duration": "Nov 2023 – Jan 2024",
+      "link": "https://movieu.netlify.app/",
+      "details": [
+        "Built a movie discovery platform showcasing trending movies/TV shows using TheMovieDB API.",
+        "Optimized page loading using lazy loading for images.",
+        "Ensured a responsive UI for seamless desktop and mobile experiences."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelors of Engineering (Computer Science)",
+    "university": "Chitkara University, Punjab",
+    "duration": "2020 - 2024",
+    "gpa": "9.6/10"
+  },
+  "skills": [
+    "C++",
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "MySQL",
+    "Vue.js",
+    "Python",
+    "React.js",
+    "React Native"
+  ]
+}
